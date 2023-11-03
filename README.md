@@ -1,7 +1,7 @@
 # House-Price-Prediction (Regression)
 The aim of these project is to predict the house price prediction. Here I have used various Machine Learning Models Like Linear Regression, Random Forest, Adaboost, 	GradientBoosting Regression, XGB Regression, Ensemble Model (Blending Technique).
 
-# Steps in House Price Prediction
+### Steps in House Price Prediction
 1. Loading the dataset
 2. Checking Duplicates and Remove them.
 3. Target Variable analysis ['Sale Price']
@@ -29,3 +29,4 @@ The aim of these project is to predict the house price prediction. Here I have u
 11. Split the dataset into train test dataset
 12. Train the Model using KFold Validation
 13. Hyper-parameters Tuning in RandomForest Regressor,AdaBoost, GradientBoosting Regression, XGB Regression
+#### Got an RMSE score of 0.14036 on kaggle leaderboard
